@@ -1,0 +1,20 @@
+{
+    "name": "pocket-reader-auth-api",
+    "description": "An interface between the Pocket Authentication API and the Alexa Service Kit account linking interface.",
+    "author": {
+        "name": "Evan Simkowitz",
+        "email": "esimkowitz@wustl.edu"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    },
+    "deprecated": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/esimkowitz/pocket-reader-auth-api.git"
+    },
+    "engines": {
+        "node": ">= 6.10"
+    }
+}
